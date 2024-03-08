@@ -1,6 +1,6 @@
 # KFACBT's Toolkit
 
-## :mi-round md-36|description: 文档
+## :mi-outlined md-36|description: 文档
 
 欢迎来到 `KFACBT's Toolkit` 的文档！
 
