@@ -53,7 +53,7 @@ Docs
 
 以上排名不分先后。
 
-## :mi-round md-36|draft: 参考
+## :mi-round md-36|text_snippet: 参考
 
 本项目引用了一部分 [精易模块](https://ec.125.la/) 的代码，并且一些功能参考了一些其他开源项目来制作的,具体如下：
 
