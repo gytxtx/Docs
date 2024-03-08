@@ -6,7 +6,7 @@
 
 在这里，您可以了解关于 `KFACBT's Toolkit` 的更多信息。
 
-## :mi-round md-36|construction: 项目
+## :mi-outlined md-36|home_repair_service: 项目
 
 本项目在 `2022 年 2 月` 使用 **易语言** 开发出第一个版本。
 
@@ -41,7 +41,7 @@
 
 以上排名不分先后。
 
-## :mi-round md-36|text_snippet: 参考
+## :mi-outlined md-36|text_snippet: 参考
 
 本项目引用了一部分 [精易模块](https://ec.125.la/) 的代码，并且一些功能参考了一些其他开源项目来制作的,具体如下：
 
