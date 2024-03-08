@@ -1,0 +1,11 @@
+#app .sidebar-nav .sidebar-title,
+#app .home .header {
+    text-align: center;
+}
+
+/* 如果需要针对图标也进行居中处理 */
+#app .sidebar-nav .sidebar-title i.material-icons-outlined,
+#app .home .header i.material-icons-outlined {
+    display: inline-block;
+    vertical-align: middle;
+}
