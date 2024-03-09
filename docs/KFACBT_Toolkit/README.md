@@ -6,6 +6,10 @@
 
 在这里，您可以了解关于 `KFACBT's Toolkit` 的更多信息。
 
+> 项目链接：
+>
+> [GitHub Repo](https://github.com/gytxtx/KFACBT_Toolkit)
+
 ## :mi-outlined md-36|home_repair_service: 项目
 
 本项目在 `2022 年 2 月` 使用 **易语言** 开发出第一个版本。
