@@ -19,4 +19,12 @@ Docs
 
 ## 文档构建
 
-本文档在 GitHub Pages 上构建，基于 [docsify](https://docsify.js.org)。
+本文档在 GitHub Pages 上构建，基于 [Docsify](https://docsify.js.org)。
+
+## 插件
+
+本文档使用以下插件：
+
+| 插件 | 说明 |
+| :--: | :--: |
+| [Material Icons plugin for Docsify](https://github.com/erickjx/docsify-material-icons) | 在 Docsify 中使用 Material Icons |
