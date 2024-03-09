@@ -22,6 +22,6 @@
 
 ### 依赖
 
-本工具箱依赖 `易语言官方支持库` 和 `Windows API` 以及 `Windows Media Player`。
+本工具箱依赖 `易语言官方支持库`、`Windows API`、`Windows Media Player`。
 
 需要保证运行目录中的支持库文件完整以及勾选 `可选功能` 中的 `Windows Media Player` 才能让本程序正常运行。#感谢 Panda Chen 指出错误！
