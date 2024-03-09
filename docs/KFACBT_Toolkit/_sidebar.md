@@ -1,4 +1,4 @@
-<!-- _navbar.md -->
+<!-- _sidebar.md -->
 
 * [Home](/ "首页")
 * [KFACBT's Toolkit - 文档首页](/docs/KFACBT_Toolkit/ "KFACBT's Toolkit - 文档首页")
