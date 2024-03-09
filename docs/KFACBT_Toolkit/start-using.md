@@ -4,7 +4,7 @@
 
 首先，定位到 [GitHub Repo](https://github.com/gytxtx/KFACBT_Toolkit)，点击 `Release`，下载最新的 `Release` 版本。
 
-资源名称通常为 `版本名称 + .zip`，如有需要下载源代码，请下载 `Source-code` 开头的文件。
+资源名称通常为 `<版本名称> + .zip`，如有需要下载源代码，请下载 `Source-code` 开头的文件。
 
 如果下载之后报毒了，这是正常现象。因为使用易语言开发的程序编译之后都会报毒。
 
