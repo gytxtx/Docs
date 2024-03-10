@@ -57,5 +57,4 @@
 | [汉汉多功能工具箱](https://bbs.125.la/forum.php?mod=viewthread&tid=13909175) | 时间同步 |
 | [玄冰工具箱](https://bbs.125.la/forum.php?mod=viewthread&tid=14729179) | 图标提取 |
 | [播放列表](https://bbs.125.la/forum.php?mod=viewthread&tid=14524236) | 播放列表 |
-
-
+| [言密码强度检测](https://bbs.125.la/forum.php?mod=viewthread&tid=13694684) | 密码强度检测 |
