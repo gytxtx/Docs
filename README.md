@@ -13,6 +13,14 @@ Docs
 
 :mi-sharp green-svg md-48|chrome_reader_mode: -->
 
+## 通告
+
+本人因为一些原因，暂时停止本存储库的更新。恢复时间待定。
+
+感谢您的理解。
+
+## 简介
+
 这是 `KFACBT's Toolkit` 的文档存储库。
 
 暂时只有 `KFACBT's Toolkit` 的使用方法。
